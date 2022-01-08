@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lk9Niu
-- 👀 This account is for schooling only
+- 👀 This account is for school only
 - 🌱 All repositories are synced from https://gitlab.nisheng2020.com/liangkun9
 - 💞️ Other projects please refer to https://github.com/biuniun and https://gitlab.nisheng2020.com/liangkun9
 
